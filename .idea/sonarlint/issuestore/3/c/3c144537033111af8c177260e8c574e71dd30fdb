@@ -1,0 +1,32 @@
+
+t
+java:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒ¥€Íøÿÿÿÿ
+t
+java:S2293J"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒ¥€Íøÿÿÿÿ
+u
+java:S2293Ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(û™ÉÆúÿÿÿÿ
+p
+java:S2293¤"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒÌÓé
+u
+java:S2293º"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºÙˆ‡üÿÿÿÿ
+u
+java:S2293ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚Êéâşÿÿÿÿ
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ µ‰
+]
+java:S2184ƒ"FCast one of the operands of this multiplication operation to a "long".(ú„Ÿ±
+\
+java:S2184˜"FCast one of the operands of this multiplication operation to a "long".(ü“áe
+m
+java:S3776i"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ğã€¬ıÿÿÿÿ
+Y
+java:S1155o">Use isEmpty() to check whether the collection is empty or not.(²ù«Ìùÿÿÿÿ
+Y
+java:S1155y">Use isEmpty() to check whether the collection is empty or not.(²ù«Ìùÿÿÿÿ
+Z
+java:S1155€">Use isEmpty() to check whether the collection is empty or not.(²ù«Ìùÿÿÿÿ
+R	java:S125¯"<This block of commented-out lines of code should be removed.(”ë¦
+G
+java:S1128",Remove this unused import 'java.time.Month'.(¤‚Éøÿÿÿÿ
+U
+java:S1128":Remove this unused import 'com.ryxenshop.utils.Constants'.(¢‘¯Ğÿÿÿÿÿ

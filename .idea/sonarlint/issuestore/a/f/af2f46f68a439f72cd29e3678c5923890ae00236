@@ -1,0 +1,43 @@
+
+|
+java:S2293º"YReplace the type specification in this constructor call with the diamond operator ("<>").(şŒïøúÿÿÿÿ8ÖÅğª°1
+v
+java:S2293á"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÆÓ¡o8×Åğª°1
+w
+java:S2293°"YReplace the type specification in this constructor call with the diamond operator ("<>").(ìúìé8×Åğª°1
+m
+java:S1192Y"KDefine a constant instead of duplicating this literal "totalItems" 7 times.(—·¬ßÿÿÿÿÿ8×Åğª°1
+k
+java:S1192¬"HDefine a constant instead of duplicating this literal "message" 3 times.(¶ÖŞ±ÿÿÿÿÿ8×Åğª°1
+f
+java:S1192Ô"HDefine a constant instead of duplicating this literal "account" 4 times.(ëÕµ‹8×Åğª°1
+J
+java:S5411L"(Use a primitive boolean expression here.(Åâéüÿÿÿÿ8ÚÅğª°1
+J
+java:S5411{"(Use a primitive boolean expression here.(Åâéüÿÿÿÿ8ÚÅğª°1
+Z
+java:S4973¹"<Strings and Boxed types should be compared using "equals()".(âğ£º8ÛÅğª°1
+Z
+java:S4973¼"<Strings and Boxed types should be compared using "equals()".(—ÈĞ8ÜÅğª°1
+_
+java:S4973ã"<Strings and Boxed types should be compared using "equals()".(×ïÔ”øÿÿÿÿ8İÅğª°1
+_
+java:S4973—"<Strings and Boxed types should be compared using "equals()".(ü­œöıÿÿÿÿ8İÅğª°1
+_
+java:S4973²"<Strings and Boxed types should be compared using "equals()".(×ïÔ”øÿÿÿÿ8İÅğª°1
+Z
+java:S2441="=Make "CartDTO" serializable or don't store it in the session.(×¾•8ÀÉğª°1
+Z
+java:S2441k"=Make "CartDTO" serializable or don't store it in the session.(×¾•8ÉÉğª°1
+p
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ëıõÈ8àÉğª°1
+D
+java:S2111 "!Use "BigDecimal.valueOf" instead.(  áÚüÿÿÿÿ8éÉğª°1
+`
+java:S2441ª"=Make "CartDTO" serializable or don't store it in the session.(À¬ìÖıÿÿÿÿ8íÉğª°1
+D
+java:S2111È"!Use "BigDecimal.valueOf" instead.(Ë—Éşÿÿÿÿ8óÉğª°1
+`
+java:S2441É"=Make "CartDTO" serializable or don't store it in the session.(À¬ìÖıÿÿÿÿ8ôÉğª°1
+;
+java:S2119é"Save and re-use this "Random".(¼İÅf8Ò™ãª°1

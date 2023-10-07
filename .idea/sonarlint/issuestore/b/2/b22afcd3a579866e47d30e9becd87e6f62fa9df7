@@ -1,0 +1,25 @@
+
+k
+java:S1192X"PDefine a constant instead of duplicating this literal "product/images/" 4 times.(û­Ãüÿÿÿÿ
+f
+java:S1192F"PDefine a constant instead of duplicating this literal "product/avatar/" 4 times.(ÁéÇ‘
+S
+java:S4973…"<Strings and Boxed types should be compared using "equals()".(Ó¡Çé
+X
+java:S4973µ"<Strings and Boxed types should be compared using "equals()".(¯ë–ùÿÿÿÿ
+g
+java:S3776:"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(³²…|
+O	java:S899D";Do something with the "boolean" value returned by "delete".(‚õ·m
+c
+java:S4042D"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(‚õ·m
+U	java:S899R";Do something with the "boolean" value returned by "delete".(á×à¦ûÿÿÿÿ
+d
+java:S4042S"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(å°˜Å
+Z
+java:S1155•">Use isEmpty() to check whether the collection is empty or not.(–¥ûøÿÿÿÿ
+V	java:S899›";Do something with the "boolean" value returned by "delete".(¿‡øÖÿÿÿÿÿ
+j
+java:S4042›"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(¿‡øÖÿÿÿÿÿ
+Q	java:S899";Do something with the "boolean" value returned by "delete".(¨Ã÷±
+e
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(¨Ã÷±
